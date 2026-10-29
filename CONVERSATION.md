@@ -24,3 +24,12 @@ print("Name:", name)
 ```
 
 What is the first argument you pass to `print()` to display text?
+
+---
+## 2026-10-29 09:39, in .
+
+**Me:** how do i complete writing my name
+
+**Tutor:**
+
+Refused, off topic.
