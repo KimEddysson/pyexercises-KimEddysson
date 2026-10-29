@@ -29,3 +29,9 @@ DELIVERABLE
 
 
 # Your code below
+print("Kim")
+print("1.Kim")
+print("2.Kim")
+print("3.Kim")
+print("4.Kim")
+print("5.Kim")
