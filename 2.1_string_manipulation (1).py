@@ -24,10 +24,20 @@ DELIVERABLE
     This file, with your comments and your code.
 """
 
-# 1. In:
-# 2. Process:
-# 3. Out:
+# 1. In: a sentence typed by the user
+# 2. Process: apply four different string methods to it
+# 3. Out: four transformed versions of the sentence
 # 4. My four transformations, and when each is useful:
-
+#    - strip(): cleaning a form entry where someone added spaces by accident
+#    - upper(): writing a ticker in a standard format ("aapl" -> "AAPL")
+#    - title(): formatting a client's name properly ("john smith" -> "John Smith")
+#    - replace(" ", "_"): turning a sentence into a file name without spaces
 
 # Your code below
+sentence = input("Enter a sentence: ")
+
+print("strip()  :", repr(sentence.strip()))
+print("upper()  :", repr(sentence.upper()))
+print("title()  :", repr(sentence.title()))
+print("replace():", repr(sentence.replace(" ", "_")))
+
