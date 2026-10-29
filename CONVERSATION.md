@@ -195,3 +195,41 @@ def clean_text(text):
 ```
 
 What is the exact argument that `strip()` takes?
+
+---
+## 2026-10-29 15:49, in .
+
+**Me:** What happens if I divide by zero in Python?
+
+**Tutor:**
+
+Division by zero raises a ZeroDivisionError.
+
+Concept: Handling division by zero.
+
+```python
+# TODO: write a function that safely divides two numbers
+def safe_divide(numerator, denominator):
+    # TODO: check if denominator is zero before dividing
+    # TODO: return the division result if safe, else return None
+    pass
+```
+
+What built-in exception is raised when you try to divide by zero?
+
+---
+## 2026-10-29 15:56, in .
+
+**Me:** What does range() do?
+
+**Tutor:**
+
+The range() function creates a sequence of numbers.
+
+```python
+# TODO: replace 'start', 'stop', 'step' with your chosen numbers
+numbers = range(start, stop, step)
+print(numbers)
+```
+
+What are the three arguments that range() accepts?

@@ -24,10 +24,12 @@ DELIVERABLE
     This file, with your comments and your code.
 """
 
-# 1. In: addition, difference, product, difference
-# 2. Process: print and then say what you want to do
-# 3. Out: give you the results
-# 4. What happens when the second number is zero, and why: gives an error
+# 1. In: two numbers typed by the user
+# 2. Process: add, subtract, multiply and divide them
+# 3. Out: the four results
+# 4. What happens when the second number is zero, and why: I display a message
+#    instead of a result, because dividing by zero is impossible and the program
+#    should still show the other three results instead of crashing.
 
 
 # Your code below

@@ -31,3 +31,21 @@ DELIVERABLE
 
 
 # Your code below
+n = int(input("Enter a number: "))
+
+if n < 1:
+    print("Please enter a number of at least 1.")
+elif n > 100:
+    print("That is too many lines. Please enter a number up to 100.")
+else:
+    for i in range(1, n + 1):
+        if i % 2 == 0:
+            print(i, "is even")
+        else:
+            print(i, "is odd")
+
+# CHECK IT YOURSELF
+# 6:    1, 3, 5 are odd and 2, 4, 6 are even -> three odd, three even, as expected
+# 0:    "Please enter a number of at least 1." -> as I decided
+# -4:   "Please enter a number of at least 1." -> as I decided
+# 5000: "That is too many lines..." -> as I decided
