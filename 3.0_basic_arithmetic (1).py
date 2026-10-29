@@ -24,10 +24,10 @@ DELIVERABLE
     This file, with your comments and your code.
 """
 
-# 1. In:
-# 2. Process:
-# 3. Out:
-# 4. What happens when the second number is zero, and why:
+# 1. In: addition, difference, product, difference
+# 2. Process: print and then say what you want to do
+# 3. Out: give you the results
+# 4. What happens when the second number is zero, and why: gives an error
 
 
 # Your code below
@@ -55,4 +55,3 @@ if number_2 !=0:
  print("The division of two numbers is: ", div)
 else:
  print("The second number is 0")
- 
