@@ -33,3 +33,29 @@ What is the first argument you pass to `print()` to display text?
 **Tutor:**
 
 Refused, off topic.
+
+---
+## 2026-10-29 10:10, in .
+
+**Me:** Why is it showing bash: syntax error
+
+**Tutor:**
+
+Refused, off topic.
+
+---
+## 2026-10-29 10:18, in .
+
+**Me:** How do I add numbers to python
+
+**Tutor:**
+
+Adding numbers in Python is done with the `+` operator.
+
+```python
+# TODO: replace the zeros with two numbers you want to add
+result = 0 + 0
+print(result)
+```
+
+What is the operator used for addition in Python?
