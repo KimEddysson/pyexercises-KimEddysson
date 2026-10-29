@@ -233,3 +233,19 @@ print(numbers)
 ```
 
 What are the three arguments that range() accepts?
+
+---
+## 2026-10-29 16:12, in .
+
+**Me:** How do I sort a list from big to small?
+
+**Tutor:**
+
+Sorting a list from big to small is called descending order.
+
+```python
+numbers = [5, 2, 9, 1, 5]
+# TODO: sort the list in descending order
+```
+
+What argument must you pass to the `sort` method to get descending order?
