@@ -22,10 +22,10 @@ DELIVERABLE
     This file, with your comments and your code.
 """
 
-# 1. In:
-# 2. Process:
-# 3. Out:
-# 4. My message, and why:
+# 1. In: my name, "kim"
+# 2. Process: wrote my name 5 times
+# 3. Out: python gave me my name 5 times
+# 4. My message, and why: "Kim" because it's my name and I want to display it
 
 
 # Your code below
